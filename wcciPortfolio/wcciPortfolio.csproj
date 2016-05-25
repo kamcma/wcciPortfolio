@@ -154,7 +154,10 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Images\bankaccountscreenshot.png" />
     <Content Include="Content\Images\headshot.jpg" />
+    <Content Include="Content\Images\meetingminutesscreenshot.png" />
+    <Content Include="Content\Images\morsecodescreenshot.png" />
     <Content Include="Content\Images\standingsscreenshot.png" />
     <Content Include="Content\Images\twitterbotscreenshot.png" />
     <Content Include="favicon.ico" />
