@@ -25,7 +25,12 @@ textarea {
 
 
 .carousel-caption{
-    
+    background-color: rgba(0,0,0,0.85);
+    border-radius: 15px;
+    top: 20px;
+    bottom: auto;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 
