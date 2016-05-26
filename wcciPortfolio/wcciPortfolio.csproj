@@ -158,6 +158,7 @@
     <Content Include="Content\Images\headshot.jpg" />
     <Content Include="Content\Images\meetingminutesscreenshot.png" />
     <Content Include="Content\Images\morsecodescreenshot.png" />
+    <Content Include="Content\Images\movierentalscreenshot.png" />
     <Content Include="Content\Images\standingsscreenshot.png" />
     <Content Include="Content\Images\twitterbotscreenshot.png" />
     <Content Include="favicon.ico" />
@@ -179,6 +180,7 @@
     <Content Include="Models\Project.edmx.diagram">
       <DependentUpon>Project.edmx</DependentUpon>
     </Content>
+    <Content Include="Content\Documents\kylemcmahonresume.pdf" />
     <None Include="Scripts\jquery-2.2.3.intellisense.js" />
     <Content Include="Models\Project.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
